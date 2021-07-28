@@ -1,0 +1,8 @@
+body{color: black;
+background:limegreen;}
+.heading{width: 80%;
+font-size: 20px;}
+.objects,#result_objectname,#result_objectaccuracy{color: whitesmoke;}
+#camera,#result{border: 5px dotted red;
+height: 310px;
+width:400px;}
